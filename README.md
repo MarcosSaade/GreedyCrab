@@ -1,10 +1,12 @@
 # GreedyCrab
 
-Created using Pygame
+-Avaliable online at http://greedycrab.surge.sh
 
-Licensed under MIT
+-Created using Pygame
 
-Copyright © 2021 Marcos Saade
+-Licensed under MIT
+
+-Copyright © 2021 Marcos Saade
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the “Software”), to deal
